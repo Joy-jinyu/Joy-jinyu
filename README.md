@@ -6,9 +6,6 @@
   </a>
 </p>
 
-9 年 Web 前端，现在在一家港美股券商做金融 AI Agent 平台，负责前端基建和对话核心链路。  
-我做的是 Agent 和人之间的那一层：让它的思考、工具调用、流式输出和交付产物都看得懂，出错时也接得住。
-
 [pairwise.site](https://www.pairwise.site/) · [简历](https://www.pairwise.site/resume/) · [博客](https://www.pairwise.site/blog/) · [Telegram](https://t.me/joy_jinyu)
 
 ### 做过的事
